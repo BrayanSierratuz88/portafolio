@@ -76,10 +76,10 @@ nav a:hover {
 }
 
 .avatar {
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 350px;
   border-radius: 50%;
-  border: 4px solid var(--main-color);
+  border: 3px solid var(--main-color);
   object-fit: cover;
   margin-bottom: 20px;
 }
